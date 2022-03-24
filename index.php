@@ -26,7 +26,7 @@
 
 <header>
 
-	<a href="#main" id="skip" tabindex="0" class="btn">Skip to main content</a>
+	<a href="#main" id="skip" tabindex="0" class="button">Skip to main content</a>
 
 	<!--<ul id="navicons" class="d-none">
 		<li><img src="_assets_/images/navicon-1.png" alt="1" class="nav-icon"></li>
